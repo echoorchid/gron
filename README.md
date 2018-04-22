@@ -4,6 +4,7 @@
 [![GoDoc](https://godoc.org/github.com/roylee0704/gron?status.svg)](https://godoc.org/github.com/roylee0704/gron)
 
 Gron provides a clear syntax for writing and deploying cron jobs.
+Gron可快速编写和部署定时计划任务。
 
 ## Goals
 
